@@ -17,20 +17,20 @@ Authentication: JWT (JSON Web Token) <br>
 Testing: Postman,ThuderClient <br>
 
  Project Structure <br>
-📦backend <br>
-├── 📂 controllers <br>
+backend <br>
+├──  controllers <br>
 │   ├── user.controller.js <br>
 │   ├── product.js <br>
 │   ├── cart.js <br>
-├── 📂 models <br>
+├──  models <br>
 │   ├── userSchema.js <br>
 │   ├── productSchema.js <br>
 │   ├── cartSchema.js <br>
-├── 📂 routes <br>
+├──  routes <br>
 │   ├── userRoute.js <br>
 │   ├── productRoutes.js <br>
 │   ├── cartRoutes.js <br>
-├── 📂 middleware <br>
+├──  middleware <br>
 │   ├── authorization.js <br>
 ├── server.js <br>
 ├── .env <br>
