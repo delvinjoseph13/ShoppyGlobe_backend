@@ -59,3 +59,20 @@ GET        /cart/           Get all cart items<br>
 POST       /cart/           Add an item to cart<br>
 PUT        /cart/:id        Update cart item qty<br>
 DELETE     /cart/:id        Remove item from cart<br>
+
+Screenshot <br>
+![Image](https://github.com/user-attachments/assets/783252c7-355f-4bed-a4d8-81b792b8a104) <br>
+
+![Image](https://github.com/user-attachments/assets/772b9823-88b6-45bf-9e50-aab64d418d00) <br>
+
+![Image](https://github.com/user-attachments/assets/dd4c0ce2-9b29-410b-9951-85539b8bff99) <br>
+
+![Image](https://github.com/user-attachments/assets/3a4ee254-f9d0-48ef-a461-c3291fdc415e) <br>
+
+![Image](https://github.com/user-attachments/assets/21d05d3d-439d-49f8-b3ae-2536d07215bf) <br>
+
+![Image](https://github.com/user-attachments/assets/10539a8b-3098-40b3-9b60-24fafe3cb41c) <br>
+
+![Image](https://github.com/user-attachments/assets/0cc16d73-29a6-4f4e-86a0-694d76be2f46) <br>
+
+![Image](https://github.com/user-attachments/assets/6ea42ffb-e6d4-41c8-b12e-3709bbce5003) <br>
