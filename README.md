@@ -9,6 +9,7 @@ Product Management (CRUD Operations)<br>
 Cart Functionality (Get,Add, Update, Remove Items)<br>
 Secure API with JWT Authentication<br>
 MongoDB Database Integration<br>
+<br>
 Tech Stack <br>
 Backend:Node.js, Express.js <br>
 Database: MongoDB <br>
